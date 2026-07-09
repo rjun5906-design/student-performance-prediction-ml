@@ -26,3 +26,4 @@ Thumbs.db
 *.pkl
 *.joblib
 *.h5
+data/student-mat.csv
